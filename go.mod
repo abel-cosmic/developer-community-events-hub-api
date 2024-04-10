@@ -1,3 +1,3 @@
-module github.com/abel-cosmic/developer-community-events-hub-api
+module github.com/koyeb/example-golang
 
-go 1.21.8
+go 1.21
